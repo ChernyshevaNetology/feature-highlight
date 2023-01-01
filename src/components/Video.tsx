@@ -16,4 +16,4 @@ function Video({ url, views }: IVideo) {
   );
 }
 
-export default withHighlight(Video);
+export const EnhancedVideo = withHighlight(Video);

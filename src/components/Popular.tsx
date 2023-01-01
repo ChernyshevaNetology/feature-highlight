@@ -1,13 +1,12 @@
 import React from "react";
 
+function Popular({ children }: React.PropsWithChildren) {
+  return (
+    <div className="wrap-item wrap-item-popular">
+      <span className="label">Popular!</span>
+      {children}
+    </div>
+  );
+}
 
-function Popular(props: any) {
-    return (
-        <div className="wrap-item wrap-item-popular">
-            <span className="label">Popular!</span>
-            {props.children}
-        </div>
-    )
-};
-
-export { Popular }
+export { Popular };

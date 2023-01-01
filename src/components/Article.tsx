@@ -13,4 +13,4 @@ function Article({ title, views }: IVideo) {
   );
 }
 
-export default withHighlight(Article);
+export const EnhancedArticle = withHighlight(Article);
