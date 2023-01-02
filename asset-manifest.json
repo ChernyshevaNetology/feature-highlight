@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feature-highlight/static/css/main.c1fbf20e.css",
+    "main.js": "/feature-highlight/static/js/main.48e00b8d.js",
+    "index.html": "/feature-highlight/index.html",
+    "main.c1fbf20e.css.map": "/feature-highlight/static/css/main.c1fbf20e.css.map",
+    "main.48e00b8d.js.map": "/feature-highlight/static/js/main.48e00b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1fbf20e.css",
+    "static/js/main.48e00b8d.js"
+  ]
+}
